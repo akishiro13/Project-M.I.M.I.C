@@ -60,5 +60,5 @@ Créé par @akishiro13 ([github](https://github.com/akishiro13))
 Pour toute question ou suggestion : ouvrez une issue ou contactez-moi via GitHub ou via discord (@049_1_fr)
 
 ---
-# disclamer 
+# ⚠️ disclamer 
 Ce projet est fourni tel quel, sans garantie d'aucune sorte. Le projet a été créé pour **AIDER** les les developpeurs réseaux, white hat hackers et autre personne pouvant avoir un rapport a la sécurité. L'utilisation de ce projet a des fin malveillante n'est pas de notre responsabilité et est deconseillé.
