@@ -11,7 +11,7 @@ M.I.M.I.C est une boîte à outils modulaire de **hacking éthique** regroupant 
 ## 🧠 Fonctionnalités
 
 ### 🔐 network
-- **info sur l'ip** – Analyse les en-têtes HTTP d’un site web.
+- **info sur l'ip** – Analyse les info lier à l’ip de la machine qui hébergé.
 - **Nethwrk Analyzer** – analyse le réseaux
 - **Port Scanner** – scanne les ports
 - **Ping Tool** – ping un autre appareil
