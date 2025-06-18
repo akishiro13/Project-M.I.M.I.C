@@ -44,6 +44,7 @@ système.
 ## 🚀 Installation
 
 > ⚠️ Nécessite Python 3.8+, `pip`, `npm` et `node` installés sur le système.
+> ⚠️ Marche sur windows.
 
 ```bash
 git clone https://github.com/akishiro13/Project-M.I.M.I.C.git
