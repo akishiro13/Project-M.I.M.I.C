@@ -1,5 +1,7 @@
+
 # 🧰 Project M.I.M.I.C  
 **Multi-Interface for Monitoring, Investigation & Cybersecurity**
+![Logo MIMIC](https://raw.githubusercontent.com/akishiro13/Project-M.I.M.I.C/main/assets/logo.png)
 
 ---
 
