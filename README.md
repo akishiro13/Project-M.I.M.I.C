@@ -15,7 +15,7 @@ M.I.M.I.C est une boîte à outils modulaire de **hacking éthique** regroupant 
 - **Nethwrk Analyzer** – analyse le réseaux
 - **Port Scanner** – scanne les ports
 - **Ping Tool** – ping un autre appareil
-- **IP locator** – géeolocalise une ip publique (ou la toure de communication principale a la quel le réseaux est connecté)
+- **IP locator** – géeolocalise une ip publique (ou la tour de communication principale a la quel le réseaux est connecté)
 
 ### 🛡️ Crypto
 - **Hash Generator** – génère des hachages de mots de passe.
