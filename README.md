@@ -1,4 +1,4 @@
-# 🧰 M.I.M.I.C  
+# 🧰 Project M.I.M.I.C  
 **Multi-Interface for Monitoring, Investigation & Cybersecurity**
 
 ---
@@ -56,4 +56,4 @@ lunche `luncher.bat`
 ---
 #📬 Contact
 Créé par @akishiro13 ([github](https://github.com/akishiro13))
-Pour toute question ou suggestion : ouvrez une issue ou contactez-moi via GitHub.
+Pour toute question ou suggestion : ouvrez une issue ou contactez-moi via GitHub ou via discord (@049_1_fr)
