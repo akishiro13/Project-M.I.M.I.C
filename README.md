@@ -3,7 +3,7 @@
 
 ---
 
-M.I.M.I.C est une boîte à outils modulaire de **hacking éthique** regroupant des utilitaires puissants pour l’analyse de la sécurité web, réseau, des données sensibles, ainsi que pour l’investigation numérique.
+M.I.M.I.C est une boîte à outils modulaire de **hacking éthique** regroupant des utilitaires l’analyse de la sécurité web, réseau, des données sensibles,du cryptage et decryptage de données, ainsi que pour l’investigation numérique.
 
 ---
 
@@ -52,3 +52,8 @@ npm run dev
 or 
 
 lunche `luncher.bat`
+
+---
+#📬 Contact
+Créé par @akishiro13 ([github](https://github.com/akishiro13))
+Pour toute question ou suggestion : ouvrez une issue ou contactez-moi via GitHub.
