@@ -1,0 +1,9 @@
+@echo off
+title Lancement du projet M.I.M.I.C...
+echo 📦 Installation des dépendances...
+call npm install
+echo.
+echo 🚀 Lancement du serveur Vite...
+start "" http://localhost:5173
+call npm run dev
+pause
