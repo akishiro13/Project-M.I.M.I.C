@@ -43,7 +43,7 @@ système.
 
 ## 🚀 Installation
 
-> ⚠️ Nécessite `npm`, `node`, `un navigateur'
+> ⚠️ Nécessite `npm`, `node`, `un navigateur`
 > ⚠️ Marche sur windows.
 
 ```bash
