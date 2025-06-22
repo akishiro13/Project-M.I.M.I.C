@@ -43,7 +43,7 @@ système.
 
 ## 🚀 Installation
 
-> ⚠️ Nécessite Python 3.8+, `pip`, `npm` et `node` installés sur le système.
+> ⚠️ Nécessite `npm`, `node`, `un navigateur'
 > ⚠️ Marche sur windows.
 
 ```bash
@@ -63,3 +63,5 @@ Pour toute question ou suggestion : ouvrez une issue ou contactez-moi via GitHub
 ---
 # ⚠️ disclamer 
 Ce projet est fourni tel quel, sans garantie d'aucune sorte. Le projet a été créé pour **AIDER** les developpeurs réseaux, white hat hackers et autre personne pouvant avoir un rapport a la sécurité. L'utilisation de ce projet a des fin malveillante n'est pas de notre responsabilité et est deconseillé.
+
+Ce projet a un bug qui fais que il ne fonctionne pas avec le navigateur `firefox`, cependant il fonctionne avec `Chrome` ansi que `brave`.
